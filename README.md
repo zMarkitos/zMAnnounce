@@ -104,7 +104,8 @@ updates:
 ## Support
 
 * Issues: [GitHub Issues](https://github.com/zMarkitos/zMAnnounce/issues)
-* Discord: [GitHub Discussions](https://discord.com/invite/R7PNG2fChs)
+* Discord: [Link Discord](https://discord.com/invite/R7PNG2fChs)
 
 
 ---
+
